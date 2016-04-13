@@ -3,6 +3,15 @@
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
   xmlns:skos="http://www.w3.org/2004/02/skos/core#">
 
+    <skos:ConceptScheme rdf:about="http://r4d.dfid.gov.uk/rdf/skos/Themes">
+        <dc:title>r4d Document Types</dc:title>
+        <dc:description>A controlled vocabulary of research themes primarily to assist in migration to GOV.UK
+          </dc:description>
+        <dc:creator>Phil Barton</dc:creator>
+        <dc:date>2016-04-11</dc:date>
+        <dc:language>en</dc:language>
+    </skos:ConceptScheme>
+    
     <skos:Concept rdf:about="http://www.r4d.gov.uk/rdf/skos/DocumentTypes#Abstract">
         <skos:prefLabel>Abstract</skos:prefLabel>
         <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
