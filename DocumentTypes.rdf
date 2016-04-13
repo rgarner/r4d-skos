@@ -5,261 +5,326 @@
 
     <skos:Concept rdf:about="Abstract">
         <skos:prefLabel>Abstract</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Academic%20Thesis">
         <skos:prefLabel>Academic Thesis</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Annual%20Report">
         <skos:prefLabel>Annual Report</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Audio">
         <skos:prefLabel>Audio</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Bibliography">
         <skos:prefLabel>Bibliography</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Blog">
         <skos:prefLabel>Blog</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Book">
         <skos:prefLabel>Book</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Book%20Chapter">
         <skos:prefLabel>Book Chapter</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Briefing">
         <skos:prefLabel>Briefing</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Bulletin">
         <skos:prefLabel>Bulletin</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Bulletin%20Article">
         <skos:prefLabel>Bulletin Article</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Case%20Study">
         <skos:prefLabel>Case Study</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="CD-ROM">
         <skos:prefLabel>CD-ROM</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Computer%20Software">
         <skos:prefLabel>Computer Software</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Conference%20Paper">
         <skos:prefLabel>Conference Paper</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Conference%20Poster">
         <skos:prefLabel>Conference Poster</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Conference%20Proceedings">
         <skos:prefLabel>Conference Proceedings</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Country%20Report">
         <skos:prefLabel>Country Report</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Dataset">
         <skos:prefLabel>Dataset</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Discussion%20Paper">
         <skos:prefLabel>Discussion Paper</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Document">
         <skos:prefLabel>Document</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Draft">
         <skos:prefLabel>Draft</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="DVD">
         <skos:prefLabel>DVD</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Event%20(Miscellaneous)">
         <skos:prefLabel>Event (Miscellaneous)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Extension%20Leaflet/Booklet">
         <skos:prefLabel>Extension Leaflet/Booklet</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Fact%20Sheet">
         <skos:prefLabel>Fact Sheet</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Flyer">
         <skos:prefLabel>Flyer</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Highlights">
         <skos:prefLabel>Highlights</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Inception%20Report">
         <skos:prefLabel>Inception Report</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Interim%20Report">
         <skos:prefLabel>Interim Report</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Journal%20Article">
         <skos:prefLabel>Journal Article</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Journal%20Correspondence">
         <skos:prefLabel>Journal Correspondence</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Journal%20Editorial/Commentary">
         <skos:prefLabel>Journal Editorial/Commentary</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Journal%20Issue">
         <skos:prefLabel>Journal Issue</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Key%20Document">
         <skos:prefLabel>Key Document</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Lessons%20Learned">
         <skos:prefLabel>Lessons Learned</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Literature%20Review">
         <skos:prefLabel>Literature Review</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Magazine/Newsletter">
         <skos:prefLabel>Magazine/Newsletter</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Magazine/Newsletter/Newspaper%20Article">
         <skos:prefLabel>Magazine/Newsletter/Newspaper Article</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Manual">
         <skos:prefLabel>Manual</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Map">
         <skos:prefLabel>Map</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Media">
         <skos:prefLabel>Media</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Meeting">
         <skos:prefLabel>Meeting</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Meeting%20Report">
         <skos:prefLabel>Meeting Report</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="News">
         <skos:prefLabel>News</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Oral%20Presentation">
         <skos:prefLabel>Oral Presentation</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Poster">
         <skos:prefLabel>Poster</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="PowerPoint%20Presentation">
         <skos:prefLabel>PowerPoint Presentation</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Protocol">
         <skos:prefLabel>Protocol</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Questionnaire">
         <skos:prefLabel>Questionnaire</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Radio">
         <skos:prefLabel>Radio</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Report">
         <skos:prefLabel>Report</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Research%20Paper">
         <skos:prefLabel>Research Paper</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Systematic%20Review">
         <skos:prefLabel>Systematic Review</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Technical%20Report">
         <skos:prefLabel>Technical Report</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Television">
         <skos:prefLabel>Television</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Thematic%20Summary">
         <skos:prefLabel>Thematic Summary</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Tool%20kit">
         <skos:prefLabel>Tool kit</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Training%20Event">
         <skos:prefLabel>Training Event</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Training%20Materials">
         <skos:prefLabel>Training Materials</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Video">
         <skos:prefLabel>Video</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Visit">
         <skos:prefLabel>Visit</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Visit%20Report">
         <skos:prefLabel>Visit Report</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Web%20Content">
         <skos:prefLabel>Web Content</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Working%20Paper">
         <skos:prefLabel>Working Paper</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/DocumentTypes" />
     </skos:Concept>
 </rdf:RDF>

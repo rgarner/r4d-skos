@@ -5,6 +5,7 @@
 
     <skos:Concept rdf:about="Agriculture">
         <skos:prefLabel>Agriculture</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Agricultural%20Innovation" />
         <skos:narrower rdf:resource="Crops" />
         <skos:narrower rdf:resource="Fisheries,%20Aquaculture%20and%20Fish%20Genetics" />
@@ -15,6 +16,7 @@
 
     <skos:Concept rdf:about="Climate%20and%20Environment">
         <skos:prefLabel>Climate and Environment</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Adaptation%20to%20Climate%20Change" />
         <skos:narrower rdf:resource="Forests" />
         <skos:narrower rdf:resource="Low%20Carbon%20Development" />
@@ -24,6 +26,7 @@
 
     <skos:Concept rdf:about="Education">
         <skos:prefLabel>Education</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Education%20in%20Fragile%20States" />
         <skos:narrower rdf:resource="Education%20Policy%20and%20Strategy" />
         <skos:narrower rdf:resource="Focus%20on%20Girls%20Education" />
@@ -36,6 +39,7 @@
 
     <skos:Concept rdf:about="Economic%20Growth">
         <skos:prefLabel>Economic Growth</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Business%20Regulation" />
         <skos:narrower rdf:resource="Economic%20Growth" />
         <skos:narrower rdf:resource="Growth%20and%20Agriculture" />
@@ -47,6 +51,7 @@
 
     <skos:Concept rdf:about="Health">
         <skos:prefLabel>Health</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Access%20to%20Healthcare" />
         <skos:narrower rdf:resource="Communicable%20Diseases" />
         <skos:narrower rdf:resource="Evidence%20Based%20Health%20Care" />
@@ -65,6 +70,7 @@
 
     <skos:Concept rdf:about="Research%20Communication%20and%20Uptake">
         <skos:prefLabel>Research Communication and Uptake</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Communication%20of%20DFID%20Research" />
         <skos:narrower rdf:resource="Information%20and%20Communication%20Technologies%20(ICTs)" />
         <skos:narrower rdf:resource="International%20Communication%20Systems" />
@@ -78,6 +84,7 @@
 
     <skos:Concept rdf:about="Infrastructure">
         <skos:prefLabel>Infrastructure</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Energy" />
         <skos:narrower rdf:resource="Engineering" />
         <skos:narrower rdf:resource="Geoscience" />
@@ -87,6 +94,7 @@
 
     <skos:Concept rdf:about="Social%20Change">
         <skos:prefLabel>Social Change</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Chronic%20Poverty" />
         <skos:narrower rdf:resource="Disability" />
         <skos:narrower rdf:resource="ESRC/DFID%20Joint%20Research" />
@@ -100,6 +108,7 @@
 
     <skos:Concept rdf:about="Governance%20and%20Conflict">
         <skos:prefLabel>Governance and Conflict</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Building%20peace%20and%20stability" />
         <skos:narrower rdf:resource="Conflict%20Prevention" />
         <skos:narrower rdf:resource="Democratic%20Governance" />
@@ -115,6 +124,7 @@
 
     <skos:Concept rdf:about="Water%20and%20Sanitation">
         <skos:prefLabel>Water and Sanitation</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Managing%20Water%20Resources" />
         <skos:narrower rdf:resource="Miscellaneous%20(Water%20and%20Sanitation)" />
         <skos:narrower rdf:resource="Safe%20Drinking%20Water" />
@@ -123,11 +133,13 @@
 
     <skos:Concept rdf:about="Humanitarian%20Disasters%20and%20Emergencies">
         <skos:prefLabel>Humanitarian Disasters and Emergencies</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Humanitarian%20Assistance%20and%20Disasters" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Food%20and%20Nutrition">
         <skos:prefLabel>Food and Nutrition</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:narrower rdf:resource="Food%20Security" />
         <skos:narrower rdf:resource="Hunger%20Emergencies" />
         <skos:narrower rdf:resource="Miscellaneous%20(Food%20and%20Nutrition)" />
@@ -136,421 +148,505 @@
 
     <skos:Concept rdf:about="Access%20to%20Healthcare">
         <skos:prefLabel>Access to Healthcare</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Adaptation%20to%20Climate%20Change">
         <skos:prefLabel>Adaptation to Climate Change</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Climate%20and%20Environment" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Agricultural%20Innovation">
         <skos:prefLabel>Agricultural Innovation</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Agriculture" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Arms%20Control">
         <skos:prefLabel>Arms Control</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Building%20peace%20and%20stability">
         <skos:prefLabel>Building peace and stability</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Business%20Regulation">
         <skos:prefLabel>Business Regulation</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Economic%20Growth" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Chronic%20Poverty">
         <skos:prefLabel>Chronic Poverty</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Social%20Change" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Communicable%20Diseases">
         <skos:prefLabel>Communicable Diseases</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Communication%20of%20DFID%20Research">
         <skos:prefLabel>Communication of DFID Research</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Research%20Communication%20and%20Uptake" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Conflict%20Prevention">
         <skos:prefLabel>Conflict Prevention</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Crops">
         <skos:prefLabel>Crops</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Agriculture" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Democratic%20Governance">
         <skos:prefLabel>Democratic Governance</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Disability">
         <skos:prefLabel>Disability</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Social%20Change" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Economic%20Growth">
         <skos:prefLabel>Economic Growth</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Economic%20Growth" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Education%20in%20Fragile%20States">
         <skos:prefLabel>Education in Fragile States</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Education" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Education%20Policy%20and%20Strategy">
         <skos:prefLabel>Education Policy and Strategy</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Education" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Empowerment%20and%20Accountability">
         <skos:prefLabel>Empowerment and Accountability</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Energy">
         <skos:prefLabel>Energy</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Infrastructure" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Engineering">
         <skos:prefLabel>Engineering</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Infrastructure" />
     </skos:Concept>
 
     <skos:Concept rdf:about="ESRC/DFID%20Joint%20Research">
         <skos:prefLabel>ESRC/DFID Joint Research</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Social%20Change" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Evidence%20Based%20Health%20Care">
         <skos:prefLabel>Evidence Based Health Care</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Fisheries,%20Aquaculture%20and%20Fish%20Genetics">
         <skos:prefLabel>Fisheries, Aquaculture and Fish Genetics</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Agriculture" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Focus%20on%20Girls%20Education">
         <skos:prefLabel>Focus on Girls Education</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Education" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Food%20Security">
         <skos:prefLabel>Food Security</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Food%20and%20Nutrition" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Forests">
         <skos:prefLabel>Forests</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Climate%20and%20Environment" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Gender">
         <skos:prefLabel>Gender</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Social%20Change" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Geoscience">
         <skos:prefLabel>Geoscience</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Infrastructure" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Getting%20Kids%20into%20School">
         <skos:prefLabel>Getting Kids into School</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Education" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Growth%20and%20Agriculture">
         <skos:prefLabel>Growth and Agriculture</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Economic%20Growth" />
     </skos:Concept>
 
     <skos:Concept rdf:about="HIV%20and%20AIDS">
         <skos:prefLabel>HIV and AIDS</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Humanitarian%20Assistance%20and%20Disasters">
         <skos:prefLabel>Humanitarian Assistance and Disasters</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Humanitarian%20Disasters%20and%20Emergencies" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Hunger%20Emergencies">
         <skos:prefLabel>Hunger Emergencies</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Food%20and%20Nutrition" />
     </skos:Concept>
 
     <skos:Concept rdf:about="ICTs%20in%20Education">
         <skos:prefLabel>ICTs in Education</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Education" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Immunisation">
         <skos:prefLabel>Immunisation</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Information%20and%20Communication%20Technologies%20(ICTs)">
         <skos:prefLabel>Information and Communication Technologies (ICTs)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Research%20Communication%20and%20Uptake" />
     </skos:Concept>
 
     <skos:Concept rdf:about="International%20Communication%20Systems">
         <skos:prefLabel>International Communication Systems</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Research%20Communication%20and%20Uptake" />
     </skos:Concept>
 
     <skos:Concept rdf:about="International%20Information%20Systems">
         <skos:prefLabel>International Information Systems</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Research%20Communication%20and%20Uptake" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Internet%20Services">
         <skos:prefLabel>Internet Services</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Research%20Communication%20and%20Uptake" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Livestock%20Production">
         <skos:prefLabel>Livestock Production</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Agriculture" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Low%20Carbon%20Development">
         <skos:prefLabel>Low Carbon Development</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Climate%20and%20Environment" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Malaria">
         <skos:prefLabel>Malaria</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Managing%20Water%20Resources">
         <skos:prefLabel>Managing Water Resources</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Water%20and%20Sanitation" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Maternal,%20Neonatal%20and%20Child%20Health">
         <skos:prefLabel>Maternal, Neonatal and Child Health</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Media%20and%20Broadcasting">
         <skos:prefLabel>Media and Broadcasting</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Research%20Communication%20and%20Uptake" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Mental%20Health">
         <skos:prefLabel>Mental Health</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Migration">
         <skos:prefLabel>Migration</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Social%20Change" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Mines%20and%20Mine%20Action">
         <skos:prefLabel>Mines and Mine Action</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Agriculture)">
         <skos:prefLabel>Miscellaneous (Agriculture)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Agriculture" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Climate%20and%20Environment)">
         <skos:prefLabel>Miscellaneous (Climate and Environment)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Climate%20and%20Environment" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Education)">
         <skos:prefLabel>Miscellaneous (Education)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Education" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Food%20and%20Nutrition)">
         <skos:prefLabel>Miscellaneous (Food and Nutrition)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Food%20and%20Nutrition" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Governance%20and%20Conflict)">
         <skos:prefLabel>Miscellaneous (Governance and Conflict)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Growth)">
         <skos:prefLabel>Miscellaneous (Growth)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Economic%20Growth" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Health)">
         <skos:prefLabel>Miscellaneous (Health)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Infrastructure)">
         <skos:prefLabel>Miscellaneous (Infrastructure)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Infrastructure" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Social%20Change)">
         <skos:prefLabel>Miscellaneous (Social Change)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Social%20Change" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Miscellaneous%20(Water%20and%20Sanitation)">
         <skos:prefLabel>Miscellaneous (Water and Sanitation)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Water%20and%20Sanitation" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Natural%20Resource%20Systems">
         <skos:prefLabel>Natural Resource Systems</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Climate%20and%20Environment" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Neglected%20Tropical%20Diseases">
         <skos:prefLabel>Neglected Tropical Diseases</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Non-Communicable%20Diseases">
         <skos:prefLabel>Non-Communicable Diseases</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Nutrition">
         <skos:prefLabel>Nutrition</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Food%20and%20Nutrition" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Online%20Journals">
         <skos:prefLabel>Online Journals</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Research%20Communication%20and%20Uptake" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Private%20Sector">
         <skos:prefLabel>Private Sector</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Economic%20Growth" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Public%20Financial%20Management">
         <skos:prefLabel>Public Financial Management</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Public%20Sector%20Reform">
         <skos:prefLabel>Public Sector Reform</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Raising%20Standards%20in%20Education">
         <skos:prefLabel>Raising Standards in Education</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Education" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Religion%20and%20Development">
         <skos:prefLabel>Religion and Development</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Social%20Change" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Reproductive%20Health">
         <skos:prefLabel>Reproductive Health</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Research%20into%20Use%20(Agriculture)">
         <skos:prefLabel>Research into Use (Agriculture)</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Agriculture" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Research%20Uptake,%20Evaluation%20and%20Capacity%20Building">
         <skos:prefLabel>Research Uptake, Evaluation and Capacity Building</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Research%20Communication%20and%20Uptake" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Safe%20Drinking%20Water">
         <skos:prefLabel>Safe Drinking Water</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Water%20and%20Sanitation" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Sanitation%20and%20Hygiene">
         <skos:prefLabel>Sanitation and Hygiene</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Water%20and%20Sanitation" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Security,%20Justice%20and%20Rights">
         <skos:prefLabel>Security, Justice and Rights</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Skills%20and%20Training">
         <skos:prefLabel>Skills and Training</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Education" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Strengthening%20Health%20Systems">
         <skos:prefLabel>Strengthening Health Systems</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Systematic%20Reviews">
         <skos:prefLabel>Systematic Reviews</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Research%20Communication%20and%20Uptake" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Tackling%20Corruption">
         <skos:prefLabel>Tackling Corruption</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Trade">
         <skos:prefLabel>Trade</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Economic%20Growth" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Transport">
         <skos:prefLabel>Transport</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Infrastructure" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Tuberculosis">
         <skos:prefLabel>Tuberculosis</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Health" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Urbanisation">
         <skos:prefLabel>Urbanisation</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Social%20Change" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Women%20and%20Business">
         <skos:prefLabel>Women and Business</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Economic%20Growth" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Women,%20Peace%20and%20Security">
         <skos:prefLabel>Women, Peace and Security</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Governance%20and%20Conflict" />
     </skos:Concept>
 
     <skos:Concept rdf:about="Young%20Lives">
         <skos:prefLabel>Young Lives</skos:prefLabel>
+        <skos:inScheme rdf:resource="http://www.r4d.gov.uk/rdf/skos/Themes" />
         <skos:broader rdf:resource="Social%20Change" />
     </skos:Concept>
 </rdf:RDF>
